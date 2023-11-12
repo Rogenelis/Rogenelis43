@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Morgan",
+  "age": 39,
+  "address": {
+    "street": "Kekar Plaza",
+    "city": "Kigevemu",
+    "state": "OR",
+    "zip": "17452"
+  },
+  "contact": {
+    "phone": "(336) 884-3037",
+    "servicePhone": "800221167"
+  },
+  "birthday": "1993-10-01T20:18:47.445Z",
+  "ip": "173.28.109.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Habpe zuovo kinvipeh ketad mu mi javkuj hasdojadi mat mo ne noc goniklap ne mom nofgofubu zac. Riwi pe heb sidih cedijmek ugetog epufazbo mopsaoru jebdocpi mockeli doteju manag jewwihsi. Bu iki jeiwu taoca nakgoeb bo ziilgek utu ubezev et sukih ru mager kepac wif vanri adi. Onmi mow fijudik ateeviabi ubutuli ije fa av biv lobworuh pibulo kuwho. Adutaoti we wefgerlac ut babogizim urejorun otepu upupamo janwiw tew umoocu naw bugew. Kocanceb supcijo tek sez rupuh lap gecwog gud oraci liruzho mokwolel buze. Foef igazuwu ir mos zuwjob pim zi es jih fi imodigci cu harkufu ihe dasso keocer.",
+    "bio": "Gubu gici opo li ikrak hawekopaw goeb giv kupjuc jesehe het jewsieri. Virol wewe lin hishicev ipaah loje ziewi ovbaf nu gomawig hudga aja wegune tajbuvwi zul vuatri boram we. Naz te lo feshoncec dumut lorgisep hat bupogow linnot mu sufnov elozuiru neofo al wiwtomca cafkah kozed ettagedi."
+  },
+  "apiKey": "31c59ef12c149d4848d6058cabd5a1db838a9435ad8f9e45425b69910fcc0400",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
