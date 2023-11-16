@@ -1,0 +1,26 @@
+{
+  "name": "Hulda Cox",
+  "age": 42,
+  "address": {
+    "street": "Medej Boulevard",
+    "city": "Acaaniki",
+    "state": "NE",
+    "zip": "90415"
+  },
+  "contact": {
+    "phone": "(669) 885-8664",
+    "servicePhone": "800548643"
+  },
+  "birthday": "1977-12-13T23:02:54.432Z",
+  "ip": "251.20.254.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Jasew foliiz iluru con ukaobceb wucorgac rozobtu cib vitja wah ip nilacwe muhahu dozvegme tete. Ikalceg vuzwular bazozcez vacut cewgun toh ce woconto tattave ca pezetfaz ron zudise. Zaktuum iri elu lafe mima suasu lo ve fes ziigugi epekegwi dug. Fi wo hin fup ad ze fohni pul woh tewsulzo uputa do ehoz vorfob va wefebafe wuolu.",
+    "bio": "Eza lesetsa kejanbo zegtivfi ezoacase ugaguc ke ma kiv lupe zuv puozi nasleka pomom ehga ugtuk. Epzitsi vosta vobbuna iprezzes enepac celibi gugbam ul wusere sarki secov ripafuf wijihum. Ot bu osfuna bewriaz rapenofe vacu cibmuef avdef am pof rah cotmi jot."
+  },
+  "apiKey": "0d5b9acdd4bb1636ddcfa88b58a2eced728d39f8420283b2675146b431e863c8",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
