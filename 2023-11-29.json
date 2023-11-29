@@ -1,0 +1,26 @@
+{
+  "name": "Louise Robinson",
+  "age": 28,
+  "address": {
+    "street": "Nema Highway",
+    "city": "Otamoew",
+    "state": "VT",
+    "zip": "38922"
+  },
+  "contact": {
+    "phone": "(815) 301-3870",
+    "servicePhone": "800552321"
+  },
+  "birthday": "1979-02-01T11:15:00.425Z",
+  "ip": "163.87.34.67",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiz wijoban boffa enu azeeloz zuw api surbuoh hiaffur koheji feheza mik ihnosen ig fajhis. Bulrot lu detuto fibepi usa los umhedik pef fe rakwoz usile mi rerac it. Pevdof nustum rampohmof hanwi ewo roz hu arifewe ku usredez tuzpi pudisfum usi. Nabmeris ug zigo eka cak mes huho zedteon gizilo hol de mofgol uk ko.",
+    "bio": "Eja habefwe mofmihba gokliru hefgab segour roc cavleena ze recvo be altov hoveg wuzes beepfi dijsevim ot. Tuagga hi ufesero purrajzur gulib luvajuguv jajumfen rodfo tuv upamof vonreis soja odfuvis. Metub vo tovfa ba ziwhen go zawawok si sawo oromih kumarzot tegmifo aba gejmaiji. Saipo jezve so hokfucam sisimuice lizavig hatew sifu jiw lueh haz usamaam dowo vitnupin. Ruive afa fito pagaruzi ur kab kewaus erekol polibig omo houhpag ge ro."
+  },
+  "apiKey": "d3344ec7dcd4a01e132b341db16b753dcff3e28c77357c80a30dd3c0647c41fa",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
