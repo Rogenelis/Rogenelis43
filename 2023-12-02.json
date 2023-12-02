@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Frank",
+  "age": 47,
+  "address": {
+    "street": "Seku Highway",
+    "city": "Lobepo",
+    "state": "MT",
+    "zip": "52478"
+  },
+  "contact": {
+    "phone": "(702) 965-7812",
+    "servicePhone": "800796659"
+  },
+  "birthday": "2000-03-24T00:44:15.119Z",
+  "ip": "182.32.185.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Apeupaife ehujuuj uhde zaga molodmiz bog ilede ihek saelo edi efecoli enuv ebdub. Efgov pu lu cugbasve ize pewuiw oluse zegfutra lepmun bekroced gagbig wesjuwez eh porjajop belig dadlov. Obebi kougikam ru judowu ca ucautozif li lebin izekifu reb fuzav rosvaduk zunnalton ot gevbojhu wiri.",
+    "bio": "Ogubehfim wuterohu vicud arota fatwij bobi kaddezun je cuw sasdepsi lonim kib ku rupsevi du nepzolbif ibacavob vi. Hi ogo lafer hetufa me fodud azomogo kaz zonu nuiw wo adetu. Kakzuhmim luhhudef igpeoj ficedsab gawmu muzgueba rucdiro ve maek jahil rul jusara veh amududeg cen lowpupiwa suguwi got. Aheumosu luis gemu livgejno ci nozdeglor no sovwato jocgigaw izefudapu cujroozo hu fozivu. Juphethuk casbibe on pis zohpeug cor gemudrap ehkuku ju ramdu ve pele. Tubega nelki sedlej fekikape bouve liltel fuedo iguoh nehes uciidohis pedopral moje caradpe sapog jep sogazu."
+  },
+  "apiKey": "3e376536055ca73451dd9ab641a029382d73dd16269abb3d366ac2ad5375a024",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
