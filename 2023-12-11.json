@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Terry",
+  "age": 62,
+  "address": {
+    "street": "Vavzo Grove",
+    "city": "Pozoza",
+    "state": "NE",
+    "zip": "17306"
+  },
+  "contact": {
+    "phone": "(629) 691-8101",
+    "servicePhone": "800981273"
+  },
+  "birthday": "1988-10-08T21:26:52.803Z",
+  "ip": "65.190.171.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Votnip riev andul rilobi wefritoke ep focu sukowkud unovorih birid ru wiwsafed advar segvoki. Lebwopo tobgi du jev boh ga wetlasur upojanan otoepa gijono dikiv ez to sa dupasa mig. Acraw tavnuppuz adefe atemo vutaz ka oviatu ejoezhuf va selopta al wauta da neb.",
+    "bio": "Go miweoze vi hu isatonrek pu rufzuaro kajawi daz abe esze ewgejvu. Cegha ziego uro dahlew ro joj jogco jaizu coket ah we ormoj wepdoni koom hipvi buwit. Ilasuh lemipil zu mew nunze jabatika ub re zogegoc menanvad teinego siropuen lidkib seam. Jole ralilru vu ejivod ozisasef pan haza zitgufeb zac wozoggaf cibinral owu so miem mivez saczuz bafah tamir. Caszad surdiduvo putucem sanamu da dula meklina belma rawvek ek gip la vihtidcu. Zo ug lo vanmavfu udab nihje mibebsu lep afa pihelmu pegabiha vim edajijvam iceib afobid donahros. Rubfeho decuomo biccow jad ibidacot bij bola jejov ujjiso bebitken to kal donod."
+  },
+  "apiKey": "2c997bc04a2b2a807f7029b8dbd9ccacc716390b68f285e04bbd3b370326a071",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
