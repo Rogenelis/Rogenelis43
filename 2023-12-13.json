@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Simmons",
+  "age": 22,
+  "address": {
+    "street": "Fedko Park",
+    "city": "Vocevgun",
+    "state": "WV",
+    "zip": "79036"
+  },
+  "contact": {
+    "phone": "(267) 796-3790",
+    "servicePhone": "800365935"
+  },
+  "birthday": "1959-08-11T00:15:05.033Z",
+  "ip": "148.145.57.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Tubuc ija wotsaru bi egeharoh itzut atikav li azi ruevodih riplour fejnu balaepu. Azutor fomlop ekocupaf to tuf ujo poalu nikogced gaw pefolab bumnofkip kivuri. Ursa mus pa oj webu iv ub emedo zelzajkal antujo po nuowari ve efe wabo. Ku ihomokin jeofe zoep esemorded gofnuod de tukun vewig regusme hozediw ibideral nuumaca af jebiwfen mihejcak. Huruzew ateozeehu me wuojuiz ofefaduz opuvo tegwaone rip wilomi ditowoho dinga nipju kih cagitar amwectub ajo didi kin.",
+    "bio": "La re vo di muhaf wo huliivu rulof dunek izijubib vilhunom he. Sumuj hoef cusdekoj carobi jimgur ji ve ju epadesab mihhaf jap cer wusfe ihfu. Vut tow puctugfan oko fus pofufduc deb gurme bohheme wa tuclopow kosera rooglo omole sip zuut nejdo pihif. Robukce herapekul jeucuuma cuk ruw vaba wuzev sikzoppu cafadmu teb viummo vijuhpu tejoiko miamalen envuc ehiwe dunaro ibpefi. Puhtebbap ezetuw ve temkab zu ogem ake wi rasgeli fiku sibo uk dij cal reofme pi nujuzem didisa."
+  },
+  "apiKey": "2b594c72f23ac79bf4e551c7c14a03a91bed57dfbb7bd670d3a6933180aa8607",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
