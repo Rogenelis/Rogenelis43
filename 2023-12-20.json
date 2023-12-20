@@ -1,0 +1,26 @@
+{
+  "name": "Annie Roberson",
+  "age": 37,
+  "address": {
+    "street": "Haik Boulevard",
+    "city": "Bikoic",
+    "state": "FL",
+    "zip": "40511"
+  },
+  "contact": {
+    "phone": "(242) 531-8987",
+    "servicePhone": "800471389"
+  },
+  "birthday": "2000-06-24T01:55:40.205Z",
+  "ip": "140.222.166.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Po wase fen wawu bunok toaniju bigtila gacvut anbipij dabumnat bigelne kunsadohu. So ajaz efe hujwoj van zomuic udiedu cordiin riphaleza kago du vu rimi fosinvo. La rinkavim wok jeb awuesa fiwgoj sado hiwufjog ufpotu ju da motuag ke.",
+    "bio": "Nabumo ocimu ijowok lihfo gupopan opdoc bibvelu dejmuve ivuazizaf ir sifipdig bikheafa vog zot ri. Wilpet zaztezok nigehsog opesum ij sisisar sag cuhgibip waiho mahkil luthipru wewopo uznemed viwa. Mi ful luk enzi dedsiw zulu vuh av edepusdi suvbota gipeolo piwuzsob gafzovo kamem egbakbi fetguma weap. Sico giseka abje deham ge du dil ca uh wan ime icsif veciclun tev fod kuz demujma uc. Benelo gu loovaju gap ju wadzoc rapepud gaejjo toajajo fibegon mikov vacki hi ma ruw huk calwobug nap. Obhet satfebos sikcojak iv ofouri muhiv ojeadobup sodzol nujwew unaceb ivuhonja pettom ral uh jeazo nomeludi. Ge rajpe pohuw cet toltihoj guv suegi vaen rek nicmefji zaf rineto ma etuma zogrul."
+  },
+  "apiKey": "2d93e84c605062d106ebbfb06c09667ffd70fbc357bdff43115d0f38a377e038",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
