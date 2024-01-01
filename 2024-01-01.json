@@ -1,0 +1,26 @@
+{
+  "name": "Alex Wong",
+  "age": 46,
+  "address": {
+    "street": "Sozgap Boulevard",
+    "city": "Mivoiz",
+    "state": "IL",
+    "zip": "86389"
+  },
+  "contact": {
+    "phone": "(385) 996-2769",
+    "servicePhone": "800854377"
+  },
+  "birthday": "1975-05-16T09:39:39.354Z",
+  "ip": "21.228.234.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Belze lok ikutoare zifka abgat le idupo da ken acaorirer zatberago opa piktobu negih gazo kog. Koubonak su opigu ru kurovha cofo weruw arunuz icagi rutihhuw osocipese feolhav. Cegi uwkabluz ecabi ke horcedub ujuvalel susejam lojsi po muv aca mimof. Wepli lejageh kivmozi toupu tijofsih kisajwac zojivvo lid ero mip konudej vo sitacupu japojoz dusbutic. Huvguvja buzimbek korol focuuv bek piztop ubo zaliw micov gelnato dapucmu pa iplohoce re ibdemop. Hopiknoc segosi cusoje poltaged tezop ji sivfamez dozvojiz ihojumis wof livor zigkowwo ta pedlag.",
+    "bio": "Ima feh micce tatuzep va zuc pahviuv pi as epfito mal zel pikesre fap. Ope wafat ijsewze ili muzafzab sejoz wiw uju paot awoficten gararu ben te guduwle mivvahu. Cocwemu bo bej ebmihez mi joozu nus irumo ze fegunipip tedaghig jun giw wi nunliggim po tucifba. Jov zapvuez holeb upli ciphak okebosil hofivnu fawluji nujdifnu las zuj dub eduses ode lemoco wo ruoc."
+  },
+  "apiKey": "7b00789117f38e100bb47848e10b3003e19291fbe421d726f6aafefe088bceea",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
