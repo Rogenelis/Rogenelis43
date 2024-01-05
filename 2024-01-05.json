@@ -1,0 +1,26 @@
+{
+  "name": "Connor Barker",
+  "age": 41,
+  "address": {
+    "street": "Wabele Court",
+    "city": "Nomhapo",
+    "state": "DE",
+    "zip": "59611"
+  },
+  "contact": {
+    "phone": "(881) 953-7993",
+    "servicePhone": "800588158"
+  },
+  "birthday": "1993-09-22T14:19:11.943Z",
+  "ip": "62.209.36.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaztam fupinbof ne nagudpa sivme haifo mufeza gan ifi vo ane iruvub zi. Wek ot wimapsi beteeva ced na ewese bi dol raleiri uj omucowu. Tigih pu de ugusoldik ziv jetetu nikuv odukpiw nof feune voweho go nakbo nuka zuf. Bakabane paepa iwa vidnuuza larnifir ni sih bebwawon moicwon waju nikju efeba huop cepvowi busega wenvuh bulo. Bomkorfa miw gov luzrugnin fed run afaobail emja tovmusev hoarokum lofo kajticco lemdutmi. Fudi bu hafkajoh tawaohi me caulola acanu kicag zekboruf wublu rusif ledouvi sepebope. Ne figeghu eniavafoh vahci ad leg viso pe okizuw bioso uz ibuvucko fen.",
+    "bio": "Sepsifow sezragdid lujes fezecac wa vihnim nam rocobo sobjaj up hu zivij pizekej. Lopozheb ip poh ogaz ahizu comakgo ecuto ipipi domjot osila lig delpar fop tezwonke ge. Raniwene hatuga lajhusic aje cauf vukehlo towov nac nofa ruafu hul nor na soju ber ajdiosa fa."
+  },
+  "apiKey": "6e636de3f15067f7683fbd9d3159a4517fa6f3c0dc3ee32bf7af1f19a87e80e3",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
