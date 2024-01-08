@@ -1,0 +1,26 @@
+{
+  "name": "Robert Schneider",
+  "age": 59,
+  "address": {
+    "street": "Colsot Heights",
+    "city": "Wineruda",
+    "state": "FL",
+    "zip": "32047"
+  },
+  "contact": {
+    "phone": "(819) 560-9702",
+    "servicePhone": "800723947"
+  },
+  "birthday": "2006-01-23T12:44:00.974Z",
+  "ip": "43.238.79.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Findaz iditode wa coki enfe mekrewru zuldone kasice tewvispo wo ke ij ili fakzeezu bah. Sowmoepa ru bof hukub efihec zoram luc pi keve dizep hari nipa uj. Nij ninbidza komti mak rujzudu ructube sat viw womtezboj osterse pinpi gokpot solrimma fu.",
+    "bio": "Neswe cagigcul iga fopad sadod iku mumig werbo vupuwka bujez obe vuz fakta za fiwfabsi. Uz kezeb matnek nim ufro pafeozo fufa iwelub mi ovo jewoj sooceuto ila gis jo agoneus boiji pecow. Jon dusitga tih mir urpopus lo baptu ar tofka surdu migih covu tofwapaji metej joot to imoti. Baizapu sof cala un howgi tovo ke lacenu emo pevgic ir udhuj."
+  },
+  "apiKey": "c64c17af5142df0d237394ed76bf2a80a6f41b54c0d43458160af6ad44cafebf",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
