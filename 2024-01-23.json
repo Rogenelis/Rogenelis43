@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Moss",
+  "age": 55,
+  "address": {
+    "street": "Toji Manor",
+    "city": "Ruamjug",
+    "state": "KS",
+    "zip": "45659"
+  },
+  "contact": {
+    "phone": "(881) 245-5149",
+    "servicePhone": "800975487"
+  },
+  "birthday": "2006-06-05T00:54:28.753Z",
+  "ip": "44.242.21.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Wihu geses puziwoj rik penosi com pofepow lomo azav dun uro gi ingivze he saso. Tael ihi ki ak li fud la poje lubhu marojru bonlewi kisasepu wa je etu. Rojaztun ragepenir iwenuebo juc et kec sifale uj niani bo cidugfin usefiheg ilej vaftu vu.",
+    "bio": "Neheg werlatif osawo be kouw domas wo ge lub gefati zewuuh elokamud wasdadkov owosu muana kuw do. Ga owo rouli sofemra wecikeca ecigapwa niwowoh jivu vumdoudo zelkak wovmolica leamumif. So nosumoz balolar nonpaccat nokvubzud iduga zawezkoc gu obelamo gotzoji so hawpew acovuj siwkozo job bizrerur zuffis. Nicijes givajva bazoh orehi butacfas le uvodibun wiwjovu nuwjus pookeebo teffo kok recdonzif rogumoda gitop cavacug regeir. Evobupaz viv camos co vevbu ina refamev bim utseb zaako fohumul mopre giiwte hisak hafzag warim. Kuf seisen ewowat tifro kudhejmap etni ri japesasi fufda tepuwcob zafvebsep hutem jul iripiavo imizitaw."
+  },
+  "apiKey": "f49c4db40ffe719c6e24539806c9090bb2cac3df52a14dacca92f6ae34988ef0",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
