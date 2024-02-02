@@ -1,0 +1,26 @@
+{
+  "name": "Charles Robbins",
+  "age": 35,
+  "address": {
+    "street": "Kawmur Park",
+    "city": "Nalvula",
+    "state": "PA",
+    "zip": "91957"
+  },
+  "contact": {
+    "phone": "(648) 796-1733",
+    "servicePhone": "800854725"
+  },
+  "birthday": "1987-01-04T05:27:42.137Z",
+  "ip": "218.167.76.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ene otwaka hushib fudgobun cedele irabes joam ezge kijesha duvegwob jucahac omocugod simgoz ufude luila ifujetode javeba ofbe. Rijemiw laz nasob fotijzeg ad mecis ivbuc bokmuuna makdejza jejdoketo sos huwtinwod wusreeho ora fet ge kasjowi. Wen lov ge penec av diataupa oka sejbarvo vejdauz mowdew is sa finher.",
+    "bio": "Zepu huc viib tefjotzev hu oh zu sofnagwis za upcuzjuc vuwano koc jattudic becvoha weferi bobfes. Izogarag jaus wu gu bo ojucazom fes pe war di cun opuwiru zen dose ehguni. Ban hajikutuj megad doaju hu wos uta det igi kalzobave punfumwo wosdis pamajo zoahja ojozi icohinop dejeh."
+  },
+  "apiKey": "0108f80ed7c74a6ce0cb3ee03378ca8a74fe4fe595f5cfb72723046df7da8b71",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
