@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Vaughn",
+  "age": 23,
+  "address": {
+    "street": "Sena Mill",
+    "city": "Ilahlud",
+    "state": "MI",
+    "zip": "42327"
+  },
+  "contact": {
+    "phone": "(746) 389-8775",
+    "servicePhone": "800267822"
+  },
+  "birthday": "1985-05-07T09:26:09.179Z",
+  "ip": "214.31.2.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Wovisuci wazewpik ode zani meobuita bazojco kafat ji za zabtuwah vom lura po ehias. Fabeg ha bowwup dodve iwlik houcder lernac pam cutir zizehi hosdej duj rez guj ra. Fovova fup edidafot zudu ubara loura mi je ki nikir bosimgib woeku heoda. Muhmale ijiipuwo recseste upo jofag jonhoftuk ato kehawo hajuv taet di vafzi vojogmez imu fuufo hah jecig uci. Cagetuew jehavco sofidihu ap golimig azovaszeg zekhuulu fepzucu dor setju vi zagmip.",
+    "bio": "Kimbi sa wakgago solsu oviz upmi onam lojtier laj muevejoj egfi gihfa wumciz mak. Utuzced ip asi sobberca rife vofe co okuave goajkab mobdo aku ze hevnihnih verifahi woctohra dabma. Ebveh ejejini kage ugutaza vojkoreb nevco leakze idum pigni lu atuvisi tupmifhe zohurik tu avasuk jutwu zusvomice. Cadwak jic cajo loofe bamocte zicawomi ipa niv jig daav gidcigeji iwkel nelnebedu nimku ivoomowu ge afa zic. Cafader komzes ujhuzde vazrergob rilri veuc su wo oweegogam bigcitet fej fumoew su kov ofto deburvof."
+  },
+  "apiKey": "d5be5b5cd0e16c959f5b5e965bec74f77ff3d82dd93e049521d6ac9e7b26f10e",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
