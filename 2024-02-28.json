@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Gonzales",
+  "age": 18,
+  "address": {
+    "street": "Rinuv Manor",
+    "city": "Pugejava",
+    "state": "CO",
+    "zip": "72351"
+  },
+  "contact": {
+    "phone": "(934) 521-4979",
+    "servicePhone": "800585964"
+  },
+  "birthday": "1996-08-12T12:11:06.722Z",
+  "ip": "240.30.216.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Viw suuva solulez kem luclawuni pa polzuh itatogo jiggazpu jaz bof giv ibhibo nu ra wap ar. Esogek udehefa hi tinipul pa vebzud neimno zici nozbo ogvub ihifucupe fu kihdodeh. Koj paorho alisdo kupcef so itoim dah em lidzetsi adujihkaf ba dotu no agorabjuz cisto feafu pezbazup raife.",
+    "bio": "Zohuwep iguzoej josi nirwar tu oso sebagive zuhwaliz betonmi evizacef kujafzap fusulic wohismut daf. Evoohi su lewic bosfur dufwornor ef vozkoloj ju fe mipongep ubgu jedcoc ru. Te naz zobkot lefogir ama vedwosuw oteup uziha sa tedef ami iv. Peduhoz si ruvoho buhemel oglowat voz sehna apuhi zi ilawi eb re ad enimubec. Ja rab rejapofa datieti ifacekbe nofjov gi vigov lotuj eczu zuncu cil zi wajwir nopedza zugak bitapbu. Naffu ifijonoc owabatuc hedwin co mu setawo vipegte ti rajew nevno zuvohuw detduja temba uknu timehi imte."
+  },
+  "apiKey": "20b09c6eb30e4d7ca66d8b7853d37cb5106aa6a9f718eb67f5c4286cc460533a",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
