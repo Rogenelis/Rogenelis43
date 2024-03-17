@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Ruiz",
+  "age": 20,
+  "address": {
+    "street": "Zico Turnpike",
+    "city": "Teguese",
+    "state": "NM",
+    "zip": "08511"
+  },
+  "contact": {
+    "phone": "(810) 516-7448",
+    "servicePhone": "800238778"
+  },
+  "birthday": "1995-11-23T18:49:20.913Z",
+  "ip": "43.62.131.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Lewij ketukupi ge hobu of ugudafvet unuaju podza pewuh codivi zihfannap jiclegvu kitakaz gu. Rohji hiwgehid moha mefis moh puc rab tic epolesu guja luva bupfonu ho weton wi juvepce. Kuevase jedebleb hik gidubos puw atireuke seh vuslaod zectut fuja lonmimet fah. Tajot pal mihtukpe ejihus wubus ceef ropfuneh poguc vojtil uco asejetvil ro.",
+    "bio": "Zogaan gonipaed hen zuhi bil zonco nucvewac jej vaon gujafti locosebi zucircel lid berkak pu ne fepcejtug. Gib ithet av suju ile dobbajpa ede ene labin zulew locku atoenumu suukme ceeto fohafmeh daffulgik. Zifjaka tinpezmir ag wiwne hapadu wi cobkofif herobu fifmak jiwci bunrimu det ema we omu nef olnod uma."
+  },
+  "apiKey": "1d0f8815d1c440238ceb4652e9b92ddc649d64d35f92aa9ff0cd3c640d901fb7",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
