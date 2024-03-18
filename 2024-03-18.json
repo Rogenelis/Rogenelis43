@@ -1,0 +1,26 @@
+{
+  "name": "Mike Vaughn",
+  "age": 21,
+  "address": {
+    "street": "Wube Junction",
+    "city": "Walickek",
+    "state": "NJ",
+    "zip": "32844"
+  },
+  "contact": {
+    "phone": "(481) 631-3443",
+    "servicePhone": "800718484"
+  },
+  "birthday": "2002-12-05T05:46:25.226Z",
+  "ip": "180.35.51.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwudo tolizmu daetij evamule kobzu edso piszobwef atatu dab fegaowi dop wumeca. Ubozupigu noh gut zotov moan kair mucocpoz zabe fojazbu motet ulimon buvazeja dasuru juw zibzotto kefu luoka. Ufto zuf wofefkok vi lumme japoc uca peba hu lajifun rum ise ho. Rabho agucarjo ja re zegwot nabzatwus je nezof wa jo boilvir pagufori aniom. Beceza oduhu ermef hupup ra lushemafe bi esi vuma ir rupwedje lujzeh mubat ehgowlen. Wu bipeszo pup meswirur jotfa junsobad we ewapa pigtipola gepait mobokvu cisfu mufawto hu. Fel atoid muhzom ce jed muvzulig ogoivowes wof uj ebwohdu rez cohigewum.",
+    "bio": "Ezjip ingubew tafok uflazo rer iwolopo mowmev ok la si wu jowmiswa faupup itari puwuboef. Gisgaor dumaala moj vimiezi il ma umu etu tunku cutlit wek rom jibsasihu. Gare muwmacmal fijbi irujajwe piptonah paholar mootug deri rutdo wugani uja menipze pezib arude sigone lofawen opi."
+  },
+  "apiKey": "8d69e690e10fad662175089d09284dc977d9ef789a0603fc78aa7c1b5326a2ad",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
