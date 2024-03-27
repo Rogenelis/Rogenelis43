@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Lloyd",
+  "age": 56,
+  "address": {
+    "street": "Unase Loop",
+    "city": "Vaofres",
+    "state": "MA",
+    "zip": "50792"
+  },
+  "contact": {
+    "phone": "(674) 989-8797",
+    "servicePhone": "800515758"
+  },
+  "birthday": "1971-07-06T22:00:48.314Z",
+  "ip": "97.64.28.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Abo umu wuku maw unuvevu jifhipove ise avenere eri bade za kuzacoova nito kili dog cakauja dubel. Nopopu joghavug juwtug vucizlog ceral he voksimwon puc bem zinrilbew zeb use ikmic ivieda taacbu ezopi. Fevik uku tip jafiw buse cah koj iruciru bebwezobo dica ha avfodes. Udu bohejim paewo os hi awegetad lukze rub moswuhte wacso jes ojgiha du je podpolvi.",
+    "bio": "Morbahem dibciasa weuh jopmocki kilu op za kuibsa depaz pafanimad viv mu. Dudnun pivtezcuz iloko geigo sahpah wa hehtaci nar bubudov hiimeser guk mo ne bevbotbef mu joffa num cuhot. Soja rohgesba luvmiteto raszoj ami deusu husur lit mip lucogiroh atge susum okpeju."
+  },
+  "apiKey": "624f79f789faf8f1fd3c0dcc5f1a4acbabc1cee2a5f6a158e33dc6b6deaecf46",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
