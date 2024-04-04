@@ -1,0 +1,26 @@
+{
+  "name": "Laura Lopez",
+  "age": 39,
+  "address": {
+    "street": "Cicwa Ridge",
+    "city": "Pepouj",
+    "state": "NJ",
+    "zip": "46331"
+  },
+  "contact": {
+    "phone": "(677) 237-5571",
+    "servicePhone": "800854883"
+  },
+  "birthday": "1985-02-19T14:52:20.479Z",
+  "ip": "157.73.106.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoini codifagi zupurod epi zamdip suh sokak bacerel zanbo zof uweodeigu vamihni owgolob tebectes wowmipo ruur pal. Dupuk wuc romjaaba dod hokofuh vavmobwe dudazohi edela rodwevvu najezzav ril foput. Hiz gobodman meow uva kega rikwijmu si eve tududbi negbow tejvuleh fidtogiw ohri hucviv ewkoc vi zajgoni.",
+    "bio": "Ikakaso ne zed agro tuthe gigesuwe oju ratkozzu wimazto jarik cinieje vahtokoso zugfo. Gop libu ru koowcuv gurwe refekba wawjij ropicig koped nifzuaso booz ana. Jetvalih ej ikuilfun ravudur terwav ak zedtib jaova zuciek roh lifawla zec epuviju kuw mot zubenla mi. Ca wonfag luwec wizkew izbakuk awevuh adotjuj kewge da bur bu gahuctiw miiva ojuka hiz bucor usihemet nodato. Woizsim ewu kakvibro ca luzmiksav ud mod cesam zosuk otfowes re ka aluow lah. Kakciw fapaliego jizhic zumwetkin gap havip amudas lu heba nutjan rim odwo atupa."
+  },
+  "apiKey": "18bc55cd187472a68fc469865d48196275dac2d6e5f1bfd250865a577f76e67a",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
