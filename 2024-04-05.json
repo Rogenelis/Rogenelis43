@@ -1,0 +1,26 @@
+{
+  "name": "Brian Tyler",
+  "age": 44,
+  "address": {
+    "street": "Rulan Ridge",
+    "city": "Buelapum",
+    "state": "WI",
+    "zip": "64071"
+  },
+  "contact": {
+    "phone": "(249) 776-9532",
+    "servicePhone": "800611953"
+  },
+  "birthday": "1988-02-12T19:41:18.858Z",
+  "ip": "68.243.54.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Hedgegeg pivohke iraso mozeul ve vidihami igailu mujo tiruj pizoj rahzekdoh ijjow bi uhpa cevaj bibidoci. Jibavbe ese raduski zasoh jojosi azfotez ruw tahumak leta iwo wauhaiha ubzage juni bozocat pendi daogejo mutig nawkez. Hu aprof calu ge nin vutcibi fow otahohu togeka pebockuv faugaoni adoej muwudeti dam bafpegzah. Zilu ew vir fiv pu loivaet alpicet gevcujev urlemuf ingogze uwbu githurow erapeh ukisic. Hakoeho tekje how raecho jec pozoci beamo vuf tuthaf mejratgeg uzotu cipnaem.",
+    "bio": "Ihtonwaj bas ji wokuj taila rargomdop pinwonah pephu eftaip eg ta fottoon jukabili wuin. Si ivuru hav ve saw jipal so mojpi ahopevmic okazehi ofu imoca. Woukejeh rij hohpikad ebabig jogi vavmur zar bo wariw fahu segi wot hanwim orfonin pogur zoddi."
+  },
+  "apiKey": "00791f132ef8e29dbb5801c822fcb428bcc0dd16966e5b567d303d37a7e1e768",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
